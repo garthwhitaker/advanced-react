@@ -7,7 +7,7 @@
     "lib": "lib"
   },
   "scripts": {
-    "dev": "pm2 start lib/server.js --watch --interpreter babel-node",
+    "dev": "NODE_PATH=./lib pm2 start lib/server.js --watch --interpreter babel-node",
     "dev:stop": "pm2 stop all",
     "dev:remove": "pm2 delete server",
     "dev:logs": "pm2 logs",
