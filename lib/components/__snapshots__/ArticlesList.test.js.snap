@@ -1,0 +1,20 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`ArticlesList should render 1`] = `
+Array [
+  <div
+    style={
+      Object {
+        "color": "red",
+        "fontSize": 11,
+      }
+    }
+  />,
+  <div />,
+  <a>
+     
+  </a>,
+  <div />,
+  <hr />,
+]
+`;
