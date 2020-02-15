@@ -1,0 +1,14 @@
+{
+  "name": "shared-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "lib/index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Garth Whitaker <garth.whitaker@gmail.com> (http://garthwhitaker.co.za/)",
+  "license": "ISC"
+}
