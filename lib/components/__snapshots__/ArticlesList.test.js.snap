@@ -5,16 +5,31 @@ Array [
   <div
     style={
       Object {
-        "color": "red",
-        "fontSize": 11,
+        "fontSize": 14,
+        "fontWeight": "bold",
       }
     }
   />,
-  <div />,
+  <div
+    style={
+      Object {
+        "color": "#c1c1c1",
+        "fontSize": 11,
+      }
+    }
+  >
+    Invalid Date
+  </div>,
   <a>
      
   </a>,
-  <div />,
+  <div
+    style={
+      Object {
+        "padding": 5,
+      }
+    }
+  />,
   <hr />,
 ]
 `;
